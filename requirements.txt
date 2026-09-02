@@ -1,0 +1,5 @@
+streamlit>=1.35
+rembg>=2.0.57
+onnxruntime>=1.18
+pillow>=10.0
+numpy>=1.26
