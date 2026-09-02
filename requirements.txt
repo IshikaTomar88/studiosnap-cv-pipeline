@@ -1,6 +1,6 @@
 streamlit
-rembg
-onnxruntime
+google-generativeai
+pdf2image
 Pillow
-numpy
 pandas
+openpyxl
